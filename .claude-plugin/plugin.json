@@ -1,0 +1,6 @@
+{
+  "name": "usage-hud",
+  "version": "0.1.0",
+  "description": "Minecraft-style health (7-day limit) and hunger (5-hour limit) bars above the prompt, with exact percentages. Toggle with /hud.",
+  "types": "./types/index.d.ts"
+}

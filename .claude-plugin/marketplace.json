@@ -1,0 +1,13 @@
+{
+  "name": "usage-hud",
+  "owner": {
+    "name": "vapourdeus"
+  },
+  "plugins": [
+    {
+      "name": "usage-hud",
+      "source": "./",
+      "description": "Minecraft-style health (7-day limit) and hunger (5-hour limit) bars with exact percentages. Toggle with /hud."
+    }
+  ]
+}
